@@ -2,7 +2,7 @@
 
 Creates a toggle switch with color and placement customizations. 
 
-![filtering](https://github.com/sqlinsights/streamlit-vertical-slider/blob/main/sample.gif?raw=true)
+![filtering](https://github.com/sqlinsights/streamlit-toggle-switch/blob/main/sample.gif?raw=true)
 
 ---
 
