@@ -1,5 +1,5 @@
 {
-  "name": "streamlit_toggle",
+  "name": "streamlit_toggle_switch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

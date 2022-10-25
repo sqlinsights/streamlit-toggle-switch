@@ -16,9 +16,9 @@ pip install streamlit_toggle_switch
 
 ```python
 import streamlit as st
-import  streamlit_toggle_switch  as svs
+import  streamlit_toggle as tog
 
-sts.st_toggle_switch(label="Label", 
+tog.st_toggle_switch(label="Label", 
                     key="Key1", 
                     default_value=False, 
                     label_after = False, 
