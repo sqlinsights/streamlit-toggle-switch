@@ -10,7 +10,7 @@ Creates a toggle switch with color and placement customizations.
 ---
 ## Installation
 ```shell
-pip install streamlit_toggle_switch
+pip install streamlit-toggle-switch
 ```
 ## Usage
 
